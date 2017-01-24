@@ -18,7 +18,7 @@ namespace boxHead
         //create graphics object
         Graphics g;
 
-         
+          
         //create brushes and fonts
         Brush blueBrush = new SolidBrush(Color.Black);
         Font arial30 = new Font("Arial", 30);
